@@ -18,4 +18,4 @@ Mobile UI/UX implementation for **OmniGreen**, an AI-powered agriculture applica
 
 ## Status
 
-🚧 UI development in progress
+UI development in progress
