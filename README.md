@@ -21,5 +21,5 @@ Mobile UI/UX implementation for **OmniGreen**, an AI-powered agriculture applica
 UI development in progress
 
 - Phase 1: Registeration page with light Mode - Completed
-- Phase 2: Home Page -Completed
-- Phase 3: News Page - Pending
+- Phase 2: Home Page - Completed
+- Phase 3: News Page - Completed
